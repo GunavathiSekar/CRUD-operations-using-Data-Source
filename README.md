@@ -1,9 +1,7 @@
-# AJAX-fetch-data-from-JSON-Array
 
 
-AJAX fetch Data from Database in JSP ans Servlet with JSON Array
 
-                               -Programmingfree.com
-                               
-                               
-                               01-02-2018
+
+      CRUD Operations udsing DATA SOURCE in dbutil.java 
+      
+      29-01-2018
